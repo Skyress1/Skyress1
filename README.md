@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **eyupcancelik20@gmail.com**
 
-- My Google Scholar Profile: [https://scholar.google.com/citations?user=lOPT_TcAAAAJ&hl=tr&authuser=1](https://scholar.google.com/citations?user=lOPT_TcAAAAJ&hl=tr&authuser=1)
+- My Google Scholar Profile: **[https://scholar.google.com/citations?user=lOPT_TcAAAAJ&hl=tr&authuser=1](https://scholar.google.com/citations?user=lOPT_TcAAAAJ&hl=tr&authuser=1)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
