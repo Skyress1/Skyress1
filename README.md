@@ -9,6 +9,8 @@
 
 - 📫 How to reach me **eyupcancelik20@gmail.com**
 
+- My Google Scholar Profile: [https://scholar.google.com/citations?user=lOPT_TcAAAAJ&hl=tr&authuser=1](https://scholar.google.com/citations?user=lOPT_TcAAAAJ&hl=tr&authuser=1)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/eyupcancelik/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="eyüpcan çeli̇k" height="30" width="40" /></a>
