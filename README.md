@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Eyüpcan Çelik</h1>
 <h3 align="center">A passionate Machine Learning Engineer from Turkey</h3>
 
+- 🔭 I'm working on deep learning, computer vision and federated learning.
+
 - 🌱 I’m currently learning **Federated Learning**
 
 - 💬 Ask me about **Federated Learning, Flower, Tensorflow**
@@ -20,4 +22,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=skyress1&show_icons=true&locale=en" alt="skyress1" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=skyress1&" alt="skyress1" /></p>
-
