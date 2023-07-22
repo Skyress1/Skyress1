@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Eyüpcan Çelik</h1>
 <h3 align="center">A passionate Machine Learning Engineer from Turkey</h3>
 
-- 🔭 I'm working on deep learning, computer vision and federated learning.
+- 🔭 I'm working on **Deep Learning**, **Computer Vision** and **Federated Learning**.
 
 - 🌱 I’m currently learning **Federated Learning**
 
